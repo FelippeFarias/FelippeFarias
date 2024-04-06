@@ -15,7 +15,7 @@ class SoftwareEngineer(FullStackIoTDeveloper):
         self.excited_for = "Emerging IoT Solutions"
 
     def contact_info(self):
-        return "YOUR_EMAIL@gmail.com"
+        return "felippe.eng@ffsdevelopers.com"
 ```
 
 ### Tools, Languages, and Other Things I Like to Work With
