@@ -2,10 +2,10 @@
 > Localização: São Paulo - Brasil
 
 ## Projetos
-
+[![Logo da Empresa](URL_DA_IMAGEM_DO_LOGO)](https://chiptiming.com.br/)
 ### ChipTiming-Live
-| Projeto | Repositório | Ações |
-|---------|-------------|-------|
-| Web     | [Repo](URL_DO_REPO) | [Ações](URL_DAS_AÇÕES) |
-| API     | [Repo](URL_DO_REPO) | [Ações](URL_DAS_AÇÕES) |
-| Landing | [Repo](URL_DO_REPO) | [Ações](URL_DAS_AÇÕES) |
+| Projeto | Repositório |
+|---------|-------------|
+| Web     | [Repo](URL_DO_REPO) |
+| API     | [Repo](URL_DO_REPO) |
+| Landing | [Repo](URL_DO_REPO) |
